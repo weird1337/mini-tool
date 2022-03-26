@@ -1,5 +1,5 @@
 import os
-author="rootates"
+author="weird"
 print("""
                         .▄▄ · ▄▄▄▄▄ ▄▄▄·  ▐ ▄ ▄▄▌  ▄▄▄ . ▄· ▄▌
                         ▐█ ▀. •██  ▐█ ▀█ •█▌▐███•  ▀▄.▀·▐█▪██▌
